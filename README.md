@@ -1,4 +1,6 @@
 # Math156ExtraCredit
+### Nicole Park, UID: 705385536, Date: 12/2/2022
+
 Extra Credit Assignment for Math 156
 
 For my assignment, I decided to implement my sentiment analysis on a Amazon review dataset to see how to extract sentiment from text data, and then to implement a Logistic Regression model to see if we could predict a user's star rating from their text review. I optimized the hyperparameters and compared it to support vector machines to see how the performance between the two models compares. Overall, this assignemnt combined a lot of concepts from class into a real-life dataset.
